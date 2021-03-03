@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RandomGame",
+"productVersion": "0.1",
+"dataUrl": "ローグライク制作物.data.unityweb",
+"wasmCodeUrl": "ローグライク制作物.wasm.code.unityweb",
+"wasmFrameworkUrl": "ローグライク制作物.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.7f1"
+}
