@@ -1,5 +1,14 @@
 # RandomGame
-ゲーム内容<br>
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5演習問題</title>
+    </head>
+<body>
+    <h1>オムライスの作り方</h1>
+    ゲーム内容<br>
 敵を倒してレベルを上げたり、アイテムを集めたりしながら上の階を目指すゲームです<br>
 操作<br>
 移動 WASD キー<br>
@@ -24,3 +33,6 @@
 ・周囲の形状や階段の位置がわかる<br>
 ・１度も近づいていない場所は非表示 <br>
 <a href= "<a href= "#xxx" >同じページの指定箇所に飛ぶリンク</a>" >プレイはここから</a>
+    </body>
+</html>
+
