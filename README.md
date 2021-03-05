@@ -31,7 +31,7 @@
 ミニマップ<br>
 ・周囲の形状や階段の位置がわかる<br>
 ・１度も近づいていない場所は非表示 <br>
-<a href= "<a href= "#xxx" >同じページの指定箇所に飛ぶリンク</a>" >プレイはここから</a>
+<a href= "https://github.com/HSimaidaiki/RandomGame/blob/master/README.md#randomgame" >プレイはここから</a>
     </body>
 </html>
 
