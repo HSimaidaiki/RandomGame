@@ -4,7 +4,6 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>HTML5演習問題</title>
     </head>
 <body>
     <h1>解説</h1>
